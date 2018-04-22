@@ -43,3 +43,23 @@
 
 ### August 2018
 `WILL READ` [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_2?ie=UTF8&qid=1522753420&sr=8-2&keywords=Homo+Deus) by Yuval Noah Harari
+
+---
+
+### September 2018
+`WILL READ` [A People's History of the United States](https://www.amazon.com/Peoples-History-United-States/dp/0062397346/ref=sr_1_1?s=books&ie=UTF8&qid=1524424290&sr=1-1&keywords=a+people%27s+history+of+the+united+states) by Howard Zinn
+
+---
+
+### October 2018
+`WILL READ` [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/0684807610/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524424414&sr=1-1) by Walter Isaacson
+
+---
+
+### November 2018
+`WILL READ` [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/0871404230/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524424466&sr=1-4) by Mary Beard
+
+---
+
+### December 2018
+`WILL READ` [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
