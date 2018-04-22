@@ -1,6 +1,6 @@
 # Reading List
 
-## January 2018
+### January 2018
 ### [Leonardo Da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150/ref=sr_1_1_twi_har_1?s=books&ie=UTF8&qid=1522752097&sr=1-1&keywords=leonardo+da+vinci+walter+isaacson)
 by Walter Isaacson
 Status: `READ`
