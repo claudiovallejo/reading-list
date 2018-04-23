@@ -62,4 +62,4 @@
 ---
 
 ### December 2018
-`WILL READ` [Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) by Ray Dalio
+`WILL READ` [Cloud Atlas: A Novel](https://www.amazon.com/Cloud-Atlas-Modern-Library-Hardcover/dp/081299471X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by David Mitchell
