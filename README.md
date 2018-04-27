@@ -31,13 +31,8 @@
 
 ---
 
-### June 2018
-`WILL READ` [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1522752314&sr=1-1) by James Dale Davidson and William Rees-Mogg
-
----
-
-### July 2018
-`WILL READ` [Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752395&sr=1-3) by Yuval Noah Harari
+### June and July 2018
+`WILL READ` [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Douglas R. Hofstadter
 
 ---
 
