@@ -27,11 +27,13 @@
 ### May 2018
 `READING` [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752213&sr=1-1) by Nathaniel Popper
 
-`WILL READ` [Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=sr_1_4?s=books&ie=UTF8&qid=1522752142&sr=1-4&keywords=blockchain+revolution) by Don Tapscott and Alex Tapscott
+`WILL READ` [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
 
 ---
 
 ### June and July 2018
+`WILL READ` [Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=sr_1_4?s=books&ie=UTF8&qid=1522752142&sr=1-4&keywords=blockchain+revolution) by Don Tapscott and Alex Tapscott
+
 `WILL READ` [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Douglas R. Hofstadter
 
 ---
