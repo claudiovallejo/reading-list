@@ -20,7 +20,7 @@
 ---
 
 ### April 2018
-`READING` [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192/ref=sr_1_1?ie=UTF8&qid=1522752008&sr=8-1&keywords=debt+the+first+5000+years) by David Graeber
+`READ` [Debt: The First 5,000 Years](https://www.amazon.com/Debt-Updated-Expanded-First-Years/dp/1612194192/ref=sr_1_1?ie=UTF8&qid=1522752008&sr=8-1&keywords=debt+the+first+5000+years) by David Graeber
 
 ---
 
