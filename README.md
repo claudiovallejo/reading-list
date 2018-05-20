@@ -25,9 +25,9 @@
 ---
 
 ### May 2018
-`READING` [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752213&sr=1-1) by Nathaniel Popper
+`READ` [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752213&sr=1-1) by Nathaniel Popper
 
-`WILL READ` [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
+`READING` [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
 
 ---
 
