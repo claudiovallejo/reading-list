@@ -27,40 +27,20 @@
 ### May 2018
 `READ` [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752213&sr=1-1) by Nathaniel Popper
 
-`READING` [The Ketogenic Bible: The Authoritative Guide to Ketosis](https://www.amazon.com/Ketogenic-Bible-Authoritative-Guide-Ketosis/dp/1628601043/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Dr. Jacob Wilson and Ryan Lowery
+`READ` [The Ketogenic Bible: The Authoritative Guide to Ketosis](https://www.amazon.com/Ketogenic-Bible-Authoritative-Guide-Ketosis/dp/1628601043/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Dr. Jacob Wilson and Ryan Lowery
 
 ---
 
-### June and July 2018
-`READING` [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861) by Saifedean Ammous
+### June 2018
+`READING` [Dietary Guidelines for Americans 2015 - 2020, Eighth Edition](https://health.gov/dietaryguidelines/2015/guidelines/) by US Department of Health and Human Services, US Department of Agriculture
 
-`WILL READ` [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N12H4YAKDZ6WXBMCMHFY) by Steve Krug
-
-`WILL READ` [Blockchain Revolution: How the Technology Behind Bitcoin is Changing Money, Business, and the World](https://www.amazon.com/Blockchain-Revolution-Technology-Changing-Business/dp/1101980133/ref=sr_1_4?s=books&ie=UTF8&qid=1522752142&sr=1-4&keywords=blockchain+revolution) by Don Tapscott and Alex Tapscott
+`READING` [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N12H4YAKDZ6WXBMCMHFY) by Steve Krug
 
 ---
 
-### August 2018
-`WILL READ` [Dietary Guidelines for Americans 2015 - 2020, Eigth Edition](https://health.gov/dietaryguidelines/2015/guidelines/) by US Department of Health and Human Services, US Department of Agriculture
-
+### July 2018
 `WILL READ` [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115) by Michael Greger M.D.
 
----
-
-### September 2018
-`WILL READ` [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=sr_1_2?ie=UTF8&qid=1522753420&sr=8-2&keywords=Homo+Deus) by Yuval Noah Harari
+`WILL READ` [The Elements of User Experience: User-centered Design for the Web and Beyond](https://www.amazon.com/dp/0321683684) by Jesse James Garrett
 
 ---
-
-### October 2018
-`WILL READ` [A People's History of the United States](https://www.amazon.com/Peoples-History-United-States/dp/0062397346/ref=sr_1_1?s=books&ie=UTF8&qid=1524424290&sr=1-1&keywords=a+people%27s+history+of+the+united+states) by Howard Zinn
-
----
-
-### November 2018
-`WILL READ` [Benjamin Franklin: An American Life](https://www.amazon.com/Benjamin-Franklin-American-Walter-Isaacson/dp/0684807610/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524424414&sr=1-1) by Walter Isaacson
-
----
-
-### December 2018
-`WILL READ` [SPQR: A History of Ancient Rome](https://www.amazon.com/SPQR-History-Ancient-Mary-Beard/dp/0871404230/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1524424466&sr=1-4) by Mary Beard
