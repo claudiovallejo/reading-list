@@ -34,7 +34,9 @@
 ### June 2018
 `READING` [Dietary Guidelines for Americans 2015 - 2020, Eighth Edition](https://health.gov/dietaryguidelines/2015/guidelines/) by US Department of Health and Human Services, US Department of Agriculture
 
-`READING` [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N12H4YAKDZ6WXBMCMHFY) by Steve Krug
+`READ` [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=N12H4YAKDZ6WXBMCMHFY) by Steve Krug
+
+`READ` [Intercom on Onboarding](https://www.amazon.com/Intercom-Onboarding-Traynor-ebook/dp/B01MXVC56I/ref=sr_1_1?ie=UTF8&qid=1529327403&sr=8-1&keywords=The+Elements+of+User+onboarding) by Des Traynor
 
 ---
 
