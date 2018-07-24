@@ -41,7 +41,7 @@
 ---
 
 ### July 2018
-`READ` [Practical Empathy: For Collaboration and Creativity in Your Work] (https://www.amazon.com/Practical-Empathy-Collaboration-Creativity-Your/dp/1933820489) by Indi Young
+`READ` [Practical Empathy: For Collaboration and Creativity in Your Work](https://www.amazon.com/Practical-Empathy-Collaboration-Creativity-Your/dp/1933820489) by Indi Young
 
 `READING` [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, 3rd Edition](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?s=books&ie=UTF8&qid=1532434280&sr=1-1&keywords=Crossing+the+chasm) by Geoffrey A. Moore
 
