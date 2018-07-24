@@ -41,8 +41,10 @@
 ---
 
 ### July 2018
-`WILL READ` [How Not to Die: Discover the Foods Scientifically Proven to Prevent and Reverse Disease](https://www.amazon.com/How-Not-Die-Discover-Scientifically/dp/1250066115) by Michael Greger M.D.
+`READ` [Practical Empathy: For Collaboration and Creativity in Your Work] (https://www.amazon.com/Practical-Empathy-Collaboration-Creativity-Your/dp/1933820489) by Indi Young
 
-`WILL READ` [The Elements of User Experience: User-centered Design for the Web and Beyond](https://www.amazon.com/dp/0321683684) by Jesse James Garrett
+`READING` [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, 3rd Edition](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?s=books&ie=UTF8&qid=1532434280&sr=1-1&keywords=Crossing+the+chasm) by Geoffrey A. Moore
+
+`READING` [The Diet Myth: Why the Secret to Health and Weight Loss is Already in Your Gut](https://www.amazon.com/Diet-Myth-Secret-Health-Already/dp/1468313614/ref=sr_1_1?s=books&ie=UTF8&qid=1532434465&sr=1-1&keywords=the+diet+myth) by Tim Spector
 
 ---
