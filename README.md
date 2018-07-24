@@ -27,8 +27,6 @@
 ### May 2018
 `READ` [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.amazon.com/Digital-Gold-Bitcoin-Millionaires-Reinvent/dp/0062362496/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1522752213&sr=1-1) by Nathaniel Popper
 
-`READ` [The Ketogenic Bible: The Authoritative Guide to Ketosis](https://www.amazon.com/Ketogenic-Bible-Authoritative-Guide-Ketosis/dp/1628601043/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by Dr. Jacob Wilson and Ryan Lowery
-
 ---
 
 ### June 2018
