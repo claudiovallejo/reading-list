@@ -39,8 +39,11 @@
 ### July 2018
 `READ` [Practical Empathy: For Collaboration and Creativity in Your Work](https://www.amazon.com/Practical-Empathy-Collaboration-Creativity-Your/dp/1933820489) by Indi Young
 
-`READING` [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, 3rd Edition](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?s=books&ie=UTF8&qid=1532434280&sr=1-1&keywords=Crossing+the+chasm) by Geoffrey A. Moore
+`READ` [Crossing the Chasm: Marketing and Selling Disruptive Products to Mainstream Customers, 3rd Edition](https://www.amazon.com/Crossing-Chasm-3rd-Disruptive-Mainstream/dp/0062292986/ref=sr_1_1?s=books&ie=UTF8&qid=1532434280&sr=1-1&keywords=Crossing+the+chasm) by Geoffrey A. Moore
 
-`READING` [The Diet Myth: Why the Secret to Health and Weight Loss is Already in Your Gut](https://www.amazon.com/Diet-Myth-Secret-Health-Already/dp/1468313614/ref=sr_1_1?s=books&ie=UTF8&qid=1532434465&sr=1-1&keywords=the+diet+myth) by Tim Spector
+`READ` [The Diet Myth: Why the Secret to Health and Weight Loss is Already in Your Gut](https://www.amazon.com/Diet-Myth-Secret-Health-Already/dp/1468313614/ref=sr_1_1?s=books&ie=UTF8&qid=1532434465&sr=1-1&keywords=the+diet+myth) by Tim Spector
 
 ---
+
+### August 2018
+`READING` [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows
