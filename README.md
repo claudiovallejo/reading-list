@@ -45,10 +45,10 @@
 
 ---
 
-<<<<<<< HEAD
-### October 2018
-`READING` [Zero to One: Notes on Startups, How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Peter Thiel
-=======
 ### August 2018
 `READING` [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557) by Donella H. Meadows
->>>>>>> 54a95bde31f20fb1c4f680b2c3277c248bb69431
+
+---
+
+### October 2018
+`READING` [Zero to One: Notes on Startups, How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Peter Thiel
