@@ -46,3 +46,6 @@
 `WILL READ` [The Elements of User Experience: User-centered Design for the Web and Beyond](https://www.amazon.com/dp/0321683684) by Jesse James Garrett
 
 ---
+
+### October 2018
+`READING` [Zero to One: Notes on Startups, How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Peter Thiel
