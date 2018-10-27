@@ -51,4 +51,6 @@
 ---
 
 ### October 2018
-`READING` [Zero to One: Notes on Startups, How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Peter Thiel
+`READ` [Zero to One: Notes on Startups, How to Build the Future](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Peter Thiel
+
+`READING` [Homo Deus: A Brief History of Tomorrow](https://www.amazon.com/Homo-Deus-Brief-History-Tomorrow/dp/0062464310/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Yuval Noah Harari
