@@ -2,7 +2,7 @@
 
 
 ### November 2018
-`READING` [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Ernest CLine
+`READING` [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/030788743X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Ernest Cline
 
 `READ` [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=) by Ed Catmull
 
