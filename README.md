@@ -1,7 +1,7 @@
 # Reading List
 
 ### December 2018
-`READING` [Brief Answers to the Big Questions](https://www.amazon.com/Brief-Answers-Questions-Stephen-Hawking/dp/1984819194/ref=asc_df_1984819194/?tag=hyprod-20&linkCode=df0&hvadid=312065538926&hvpos=1o1&hvnetw=g&hvrand=4958409437584931674&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060297&hvtargid=pla-527434859021&psc=1) by Stephen Hawking
+`READ` [Brief Answers to the Big Questions](https://www.amazon.com/Brief-Answers-Questions-Stephen-Hawking/dp/1984819194/ref=asc_df_1984819194/?tag=hyprod-20&linkCode=df0&hvadid=312065538926&hvpos=1o1&hvnetw=g&hvrand=4958409437584931674&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060297&hvtargid=pla-527434859021&psc=1) by Stephen Hawking
 
 `READING` [Harry Potter and the Sorcerer's Stone](https://www.amazon.com/Harry-Potter-Sorcerers-Stone-Rowling/dp/059035342X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by J.K. Rowling
 
