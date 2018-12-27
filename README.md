@@ -3,7 +3,7 @@
 ### December 2018
 `READ` [The Haunting of Hill House](https://www.amazon.com/Haunting-Hill-House-Penguin-Classics-ebook/dp/B004SS1MJI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1545617649&sr=8-2) by Shirley Jackson
 
-`READING` [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1_sspa?ie=UTF8&qid=1545617593&sr=8-1-spons&keywords=The+Lean+Startup&psc=1) by Eric Ries
+`READ` [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1_sspa?ie=UTF8&qid=1545617593&sr=8-1-spons&keywords=The+Lean+Startup&psc=1) by Eric Ries
 
 `READ` [Brief Answers to the Big Questions](https://www.amazon.com/Brief-Answers-Questions-Stephen-Hawking/dp/1984819194/ref=asc_df_1984819194/?tag=hyprod-20&linkCode=df0&hvadid=312065538926&hvpos=1o1&hvnetw=g&hvrand=4958409437584931674&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9060297&hvtargid=pla-527434859021&psc=1) by Stephen Hawking
 
