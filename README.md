@@ -1,7 +1,12 @@
 # Reading List
 
+### January 2018
+`READING` [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything/dp/0316392006/ref=sr_1_1?ie=UTF8&qid=1546294564&sr=8-1&keywords=Origin+Story) by David Christian
+
+---
+
 ### December 2018
-`READING` [All Our Wrong Todays: A Novel](https://www.amazon.com/All-Our-Wrong-Todays-Novel/dp/1101985151/ref=sr_1_1?ie=UTF8&qid=1546224450&sr=8-1&keywords=All+Our+Wrong+Todays) by Elan Mastai
+`READ` [All Our Wrong Todays: A Novel](https://www.amazon.com/All-Our-Wrong-Todays-Novel/dp/1101985151/ref=sr_1_1?ie=UTF8&qid=1546224450&sr=8-1&keywords=All+Our+Wrong+Todays) by Elan Mastai
 
 `READ` [The Haunting of Hill House](https://www.amazon.com/Haunting-Hill-House-Penguin-Classics-ebook/dp/B004SS1MJI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1545617649&sr=8-2) by Shirley Jackson
 
