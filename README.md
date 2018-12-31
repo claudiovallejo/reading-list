@@ -1,6 +1,8 @@
 # Reading List
 
 ### December 2018
+`READING` [All Our Wrong Todays: A Novel](https://www.amazon.com/All-Our-Wrong-Todays-Novel/dp/1101985151/ref=sr_1_1?ie=UTF8&qid=1546224450&sr=8-1&keywords=All+Our+Wrong+Todays) by Elan Mastai
+
 `READ` [The Haunting of Hill House](https://www.amazon.com/Haunting-Hill-House-Penguin-Classics-ebook/dp/B004SS1MJI/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1545617649&sr=8-2) by Shirley Jackson
 
 `READ` [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1_sspa?ie=UTF8&qid=1545617593&sr=8-1-spons&keywords=The+Lean+Startup&psc=1) by Eric Ries
