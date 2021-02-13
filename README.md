@@ -6,11 +6,11 @@
 
 `READ` [When Breathe Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/ref=sr_1_1?crid=JVP4JI3IE2IH&dchild=1&keywords=when+breathe+become+air&qid=1613215738&s=books&sprefix=When+breathe+becomes%2Cstripbooks%2C-1&sr=1-1) by Paul Kalanithi
 
+`READ` [How to Not Die Alone: The Surprising Science That Will Help You Find Love](https://www.amazon.com/How-Not-Die-Alone-Surprising/dp/1982120622/ref=sr_1_1?dchild=1&keywords=How+not+to+die+alone&qid=1613215695&s=books&sr=1-1) by Logan Ury
+
 ---
 
 ### January 2021
-
-`READ` [How to Not Die Alone: The Surprising Science That Will Help You Find Love](https://www.amazon.com/How-Not-Die-Alone-Surprising/dp/1982120622/ref=sr_1_1?dchild=1&keywords=How+not+to+die+alone&qid=1613215695&s=books&sr=1-1) by Logan Ury
 
 `READ` [Why Zebras Don't Get Ulcers](https://www.amazon.com/Why-Zebras-Dont-Ulcers-Third/dp/0805073698/ref=sr_1_1?crid=HA999JHZPQBP&dchild=1&keywords=why+zebras+dont+get+ulcers&qid=1613215655&s=books&sprefix=why+zebras%2Cstripbooks%2C156&sr=1-1) by Robert M. Sapolsky
 
