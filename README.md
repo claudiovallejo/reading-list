@@ -1,7 +1,27 @@
-# Reading List
+# Reading list
 
-### January 2018
-`READING` [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything/dp/0316392006/ref=sr_1_1?ie=UTF8&qid=1546294564&sr=8-1&keywords=Origin+Story) by David Christian
+### February 2021
+
+`READING` [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061/ref=sr_1_1?dchild=1&keywords=homegoing&qid=1613215770&s=books&sr=1-1) by Ya Gyasi
+
+`READ` [When Breathe Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/ref=sr_1_1?crid=JVP4JI3IE2IH&dchild=1&keywords=when+breathe+become+air&qid=1613215738&s=books&sprefix=When+breathe+becomes%2Cstripbooks%2C-1&sr=1-1) by Paul Kalanithi
+
+---
+
+### January 2021
+
+`READ` [How to Not Die Alone: The Surprising Science That Will Help You Find Love](https://www.amazon.com/How-Not-Die-Alone-Surprising/dp/1982120622/ref=sr_1_1?dchild=1&keywords=How+not+to+die+alone&qid=1613215695&s=books&sr=1-1) by Logan Ury
+
+`READ` [Why Zebras Don't Get Ulcers](https://www.amazon.com/Why-Zebras-Dont-Ulcers-Third/dp/0805073698/ref=sr_1_1?crid=HA999JHZPQBP&dchild=1&keywords=why+zebras+dont+get+ulcers&qid=1613215655&s=books&sprefix=why+zebras%2Cstripbooks%2C156&sr=1-1) by Robert M. Sapolsky
+
+`READ` [Island](https://www.amazon.com/Island-Aldous-Huxley/dp/0061561797/ref=sr_1_1?crid=UNATIT5LM9YN&dchild=1&keywords=island+aldous+huxley&qid=1613215616&s=books&sprefix=island+aldous%2Cstripbooks%2C155&sr=1-1) by Aldous Huxley
+
+`READ` [The Power of Now: A Guide to Spiritual Enlightenment](https://www.amazon.com/Power-Now-Guide-Spiritual-Enlightenment/dp/1577314808) by Eckhart Tolle
+
+---
+
+### January 2019
+`READ` [Origin Story: A Big History of Everything](https://www.amazon.com/Origin-Story-Big-History-Everything/dp/0316392006/ref=sr_1_1?ie=UTF8&qid=1546294564&sr=8-1&keywords=Origin+Story) by David Christian
 
 ---
 
