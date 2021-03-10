@@ -1,8 +1,12 @@
 # Reading list
 
-### February 2021
+### March 2021
 
-`READING` [Homegoing](https://www.amazon.com/Homegoing-Yaa-Gyasi/dp/1101971061/ref=sr_1_1?dchild=1&keywords=homegoing&qid=1613215770&s=books&sr=1-1) by Ya Gyasi
+`READING` [Epic Measures: One Doctor. Seven Billion Patients.](https://www.amazon.com/Epic-Measures-Doctor-Billion-Patients/dp/0062237519) by Jeremy Smith
+
+---
+
+### February 2021
 
 `READ` [When Breathe Becomes Air](https://www.amazon.com/When-Breath-Becomes-Paul-Kalanithi/dp/081298840X/ref=sr_1_1?crid=JVP4JI3IE2IH&dchild=1&keywords=when+breathe+become+air&qid=1613215738&s=books&sprefix=When+breathe+becomes%2Cstripbooks%2C-1&sr=1-1) by Paul Kalanithi
 
